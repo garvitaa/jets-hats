@@ -16,14 +16,7 @@ keypoints:
 
 > ## After following the instructions in the setup (if you have not done it yet) :
 >
-> ~~~
-> cd <YOUR WORKING DIRECTORY>/notebooks/DAS/
-> source /cvmfs/sft.cern.ch/lcg/views/LCG_104/x86_64-centos7-gcc11-opt/setup.sh
-> jupyter notebook --no-browser --port=8888 --ip 127.0.0.1
-> ~~~
-> {: .language-bash}
->
-> This will open a jupyter notebook tree with various notebooks. 
+> If you are in the your jupyter notebook area of the Purdue AF. On the left, in the `File Browser`, go to the folder `jets-hats > notebooks `. For this part of the tutorial you can open the notebook: `Pileup.ipynb`.
 {: .callout}
 
 ## What is pileup?
