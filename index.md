@@ -38,12 +38,12 @@ _Follow the CMS workbook on jet analysis:_ [WorkBookJetAnalysis](https://twiki.c
 
 ### Facilitators CMSDAS LPC 2024
 
-<img src="fig/foto_facilitators.png" alt="" style="width:70%">
+<img src="fig/photo_facilitators.png" alt="" style="width:50%">
 
 
 ### Support
 
-Join the [ShortExJets Mattermost channel](https://mattermost.web.cern.ch/cmsdaslpc2024/channels/shortexjets) and don't hesitate to ask for help from the facilitators in the room.
+Join the [HATS LPC Mattermost channel](https://mattermost.web.cern.ch/cms-exp/channels/hatslpc-2024) and don't hesitate to ask for help from the facilitators in the room.
 
 
 <!-- this is an html comment -->
@@ -51,7 +51,10 @@ Join the [ShortExJets Mattermost channel](https://mattermost.web.cern.ch/cmsdasl
 
 > ## Prerequisites
 >
-> [CMS DAS Pre-exercises](https://fnallpc.github.io/cms-das-pre-exercises/) 
+> * You need a CERN **or** a Fermilab CMS LPC account: 
+>   * A CMS CERN account, details here (may require a few days): [https://uscms.org/uscms_at_work/physics/computing/getstarted/index.shtml#GetCERNAcct](https://uscms.org/uscms_at_work/physics/computing/getstarted/index.shtml#GetCERNAcct)
+>   * If you do not have a Fermilab CMS LPC account, please request one by following the instructions here: [http://www.uscms.org/uscms_at_work/physics/computing/getstarted/getaccount_fermilab.shtml](http://www.uscms.org/uscms_at_work/physics/computing/getstarted/getaccount_fermilab.shtml)
+> 
 {: .prereq}
 
 {% include links.md %}

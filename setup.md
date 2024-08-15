@@ -2,7 +2,23 @@
 title: Setup
 ---
 
-# Run exercises in cmslpc
+
+The current version of this tutorial has been tested in the [Purdue Analysis Facility](https://analysis-facility.physics.purdue.edu/en/latest/index.html) (AF). Please follow the next steps to set up all you need.
+
+# Run exercises at Purdue AF
+
+Please follow [these steps to create your account](https://analysis-facility.physics.purdue.edu/en/latest/doc-getting-started.html). In short, if you have a fnal/cern account follow the link to log in into the Purdue AF: [https://cms.geddes.rcac.purdue.edu/hub](https://cms.geddes.rcac.purdue.edu/hub). Choose between your CERN/FNAL/Purdue account and follow the instructions to log in.  
+
+Once you logged in into the jupyterhub, it will ask you for the server options. Choose the **default options** and click on start. After a couple of minutes your session will be ready to start and you will see a jupyter notebook environment.
+
+Now you need to clone the [jets-hats](https://github.com/FNALLPC/jets-hats) repository. For that you can go to the menu `Git > Clone a repository`. A small window will pop up and you can fill `Enter the URI of the remote Git repository` with the following url: [https://github.com/FNALLPC/jets-hats](https://github.com/FNALLPC/jets-hats). Click on `Clone` and you should be ready to go.
+
+
+
+# Run exercises at the CMS-LPC
+
+**If the instructions above do not work, you can follow this instructions.**
+
 
 Open a terminal/console, connect to cmslpc-sl7 and prepare your working area:
 
@@ -58,6 +74,7 @@ If these two lines are running sucessfully, you should see something like this:
 {: .output}
 
 Copy and paste one of the last two urls in your favorite browser and now you can continue with the lesson 1 (Episode 1).
+
 
 > ## If you are using PUTTY
 > Go to ssh tab on the left then type in source port (ex. 8888) with destination (ex. localhost:8888) and then hit "add" to add this to the list of ports
